@@ -27,4 +27,4 @@ Users can create, update, and delete tasks, set deadlines, and receive notificat
 - Create, read, update, and delete tasks (CRUD)  
 - Task categorization and status tracking  
 - Responsive and user-friendly interface  
-- Notification system to remind users about deadlines  
+- Notification system to remind users about deadlines 
